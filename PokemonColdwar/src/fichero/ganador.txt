@@ -1,0 +1,4 @@
+B --> 3
+A --> 1
+khjnb --> 1
+adasdsaaa --> 1
